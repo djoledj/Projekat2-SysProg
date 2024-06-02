@@ -1,0 +1,16 @@
+C:\Users\Dunja\source\repos\SysProg2\SysProg2\bin\Debug\net5.0\SysProg2.exe
+C:\Users\Dunja\source\repos\SysProg2\SysProg2\bin\Debug\net5.0\SysProg2.deps.json
+C:\Users\Dunja\source\repos\SysProg2\SysProg2\bin\Debug\net5.0\SysProg2.runtimeconfig.json
+C:\Users\Dunja\source\repos\SysProg2\SysProg2\bin\Debug\net5.0\SysProg2.runtimeconfig.dev.json
+C:\Users\Dunja\source\repos\SysProg2\SysProg2\bin\Debug\net5.0\SysProg2.dll
+C:\Users\Dunja\source\repos\SysProg2\SysProg2\bin\Debug\net5.0\ref\SysProg2.dll
+C:\Users\Dunja\source\repos\SysProg2\SysProg2\bin\Debug\net5.0\SysProg2.pdb
+C:\Users\Dunja\source\repos\SysProg2\SysProg2\obj\Debug\net5.0\SysProg2.csprojAssemblyReference.cache
+C:\Users\Dunja\source\repos\SysProg2\SysProg2\obj\Debug\net5.0\SysProg2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dunja\source\repos\SysProg2\SysProg2\obj\Debug\net5.0\SysProg2.AssemblyInfoInputs.cache
+C:\Users\Dunja\source\repos\SysProg2\SysProg2\obj\Debug\net5.0\SysProg2.AssemblyInfo.cs
+C:\Users\Dunja\source\repos\SysProg2\SysProg2\obj\Debug\net5.0\SysProg2.csproj.CoreCompileInputs.cache
+C:\Users\Dunja\source\repos\SysProg2\SysProg2\obj\Debug\net5.0\SysProg2.dll
+C:\Users\Dunja\source\repos\SysProg2\SysProg2\obj\Debug\net5.0\ref\SysProg2.dll
+C:\Users\Dunja\source\repos\SysProg2\SysProg2\obj\Debug\net5.0\SysProg2.pdb
+C:\Users\Dunja\source\repos\SysProg2\SysProg2\obj\Debug\net5.0\SysProg2.genruntimeconfig.cache
